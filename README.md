@@ -11,3 +11,6 @@ Our classification algorithm incorporated 26 patient demographic and medical his
 
 ### Conclusion
 Computationally integrating general patient characteristics, comorbidities, therapy history, circulating biomarkers, and LV function data available before CRT intervention can improve the prediction of individual patient responses.
+
+### Data Avaialbility
+Data can be available upon request from Professor ***Frank G. Spinale cvctrc@uscmed.sc.edu***
